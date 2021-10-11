@@ -6,7 +6,7 @@ If you know a TV or Web show's full name but don't know where and when to watch 
 
 Minimalist. No distractions. Reactive. These are the user experiences we want to provides. 
 
-Video Demo: https://www.youtube.com/watch?v=qEG8z6yNc_I
+Demo Video: https://www.youtube.com/watch?v=qEG8z6yNc_I
 
 This is a group project I worked with Gunneet and James. It's our first Angular project, as well as our first team collaboration. 
 
